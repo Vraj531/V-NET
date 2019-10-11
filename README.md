@@ -2,7 +2,7 @@
 Volumetric Convolution (Biomedical Image Segmentation)
 
 # Collaborator
-Prayushi Mathur, Vraj Patel
+Vraj Patel, Prayushi Mathur
 
 This repository contains the file related to Brain Tumor Segmentation using V-net model. The dataset used here is BraTS 2019.
 
